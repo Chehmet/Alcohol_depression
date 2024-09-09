@@ -7,9 +7,13 @@
 
 #### Запуск:
 
-`git clone https://github.com/Chehmet/Alcohol_depression.git`
+```
+git clone https://github.com/Chehmet/Alcohol_depression.git
+```
 
-`python analysis.py`
+```
+python analysis.py
+```
 
 Валиуллина Чулпан - https://t.me/Chehmet
 
